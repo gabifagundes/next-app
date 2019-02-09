@@ -1,0 +1,29 @@
+.card .img{
+    position: relative;
+    min-height: 380px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.poster_button{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}
+
+.poster .poster_hover{
+    position: absolute;
+    bottom: 10px;
+    left: 24px;
+    visibility: hidden;
+}
+
+.poster:hover .img{
+    background-color: #2a3340;
+    background-blend-mode: overlay;
+}
+
+.poster:hover .poster_hover{
+visibility:visible;
+}

@@ -1,0 +1,21 @@
+.button{
+    color:#fff;
+    border: 0;
+    background-color:#EE6C4D;
+    cursor:pointer;
+    transition: all 0.3s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.button.light{
+    color:#293241;
+    background-color:#fff;
+}
+.button.light:hover{
+    color:#293241;
+    background-color:rgb(228, 228, 228);
+}
+
+.button:hover{
+    background-color: #dc5a3b;
+
+}

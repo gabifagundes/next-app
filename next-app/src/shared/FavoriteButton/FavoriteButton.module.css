@@ -1,0 +1,26 @@
+.icon{
+    position: absolute !important;
+    top:0;
+    right:10px;
+}
+
+.icon:hover{
+    background: url(/static/media/icon-heart-full.8c631e67.svg) no-repeat;
+    background-position: center;
+}
+
+.button{
+    background: transparent;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    width: fit-content;
+    padding:7px;
+}
+
+.button:hover{
+    border-color:#EE6C4D;
+    color:#EE6C4D;
+}
