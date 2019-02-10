@@ -17,7 +17,7 @@ const Movies = {
     ),
   getDetailMovie: id =>
     axios.get(
-      `http://api.themoviedb.org/3/movie/${id}/casts?api_key=${
+      `https://api.themoviedb.org/3/movie/${id}/casts?api_key=${
         movies.API_KEY
       }&language=${movies.LANGUAGE}`
     ),
