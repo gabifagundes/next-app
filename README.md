@@ -1,6 +1,8 @@
 
 
-Next App é uma aplicaçao feita para você que quer consultar filmes que você deseja ver, além de poder favoritar os seus preferidos.
+Next App é uma aplicaçao feita para você que quer consultar os filmes que você deseja ver, além de poder favoritar os seus preferidos.
+
+Veja um preview da aplicaçao aqui: https://5c6056165260c7000869f746--next-app.netlify.com/
 
 Para rodar o projeto, siga os seguintes passos: 
 
